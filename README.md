@@ -20,23 +20,18 @@ Developer
     <a href="https://www.instagram.com/amir.m_personal/" target="_blank" rel="noreferrer">
         <img src="instagram.png" height="30"/>
     </a>
-    <br>
     <a href="https://www.linkedin.com/in/amir-mohammad-khalili-51b222216/" target="_blank" rel="noreferrer">
         <img src="linkedin.png" height="30">
     </a>
-    <br>
     <a href="https://twitter.com/AmirMKhalili" target="_blank" rel="noreferrer">
         <img src="twitter.png" height="30">
     </a>
-    <br>
     <a href="https://github.com/Amirmohammadkh" target="_blank" rel="noreferrer">
         <img src="github.png" height="30">
     </a>
-    <br>
     <a href="https://t.me/AmirmohammadKhalili" target="_blank" rel="noreferrer">
         <img src="telegram.png" height="30">
     </a>
-    <br>
 </p>
 
 
