@@ -1,4 +1,13 @@
 ### Hi there 👋
+My name is Amirmohammad Khalili
+===============================
+Developer
+---------
+* 🌱 I’m currently learning React
+* 🤝 I’m open to collaborate on intersting projects as a Front-End web developer
+
+### Skills
+* <img src="https://img.icons8.com/color/344/html-5--v1.png"/> HTML
 
 <!--
 **Amirmohammadkh/Amirmohammadkh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
