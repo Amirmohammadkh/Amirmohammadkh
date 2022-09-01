@@ -18,7 +18,7 @@ Developer
 ### Social
 <P>
     <a href="https://www.instagram.com/amir.m_personal/" target="_blank" rel="noreferrer">
-        <img src="instagram.png" height="30"/>Instagram
+        <img src="instagram.png" height="30"/>
     </a>
     <br>
     <a href="https://www.linkedin.com/in/amir-mohammad-khalili-51b222216/" target="_blank" rel="noreferrer">
