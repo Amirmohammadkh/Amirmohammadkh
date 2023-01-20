@@ -1,9 +1,9 @@
 ### Hi there 👋
 My name is Amirmohammad Khalili
 ===============================
-Developer
+Developer👨‍💻
 ---------
-* 🌱 I’m currently learning React
+* 🌱 I’m currently learning Nextjs
 * 🤝 I’m open to collaborate on intersting projects as a Front-End web developer
 
 ### Skills
